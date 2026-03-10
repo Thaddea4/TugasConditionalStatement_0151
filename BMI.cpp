@@ -25,6 +25,6 @@ string statusBMI(float bmi){
 }
 
 int main(){
-    
+   float berat, tinggi, bmi; 
 }
 
