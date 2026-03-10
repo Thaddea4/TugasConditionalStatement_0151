@@ -30,5 +30,7 @@ int main(){
    cout << "--- Selamat Datang Mahasiswa Kelas A 2025 ---" << endl;
 
    inputData(berat, tinggi);
+
+   bmi = hitungBMI(berat, tinggi);
 }
 
